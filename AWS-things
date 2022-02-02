@@ -1,1 +1,4 @@
 arn:aws:iam:123456789012:admin/leakeduser
+
+AWS_KEY = "AKIALALEMEL33243OLIAE"
+const AWS_SECRET = "99432bfewaf823ec3294e231"
