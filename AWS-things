@@ -1,4 +1,10 @@
 arn:aws:iam:123456789012:admin/leakeduser
 
 AWZ_KEY = "AKIALALEMEL33243OLIAE"
-AWZ_SECRET = "99432bfewaf823ec3294e231"
+AWZ_SECRET = "nwK/GETbCM2mr2rtuX627wtK02KD9Ag2uBM"
+
+aws_access_key_id = "AKIALALEMEL33243OLIA"
+AWS_SECRET = "lwK/GETbCM2mr2rtuX627wtK02KD9Ag2uFD"
+
+awsaccess_key_id=AKIAT7BHOTSHDUKDOF5N 
+aws_secret_access_key=ywK/GETbCM2mr2rtuX627wtK02KD9Ag2uBM 
